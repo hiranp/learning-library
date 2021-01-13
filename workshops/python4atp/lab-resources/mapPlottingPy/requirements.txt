@@ -5,3 +5,4 @@ geopandas==0.5.0
 pandas==0.24.2
 Shapely==1.6.4.post2
 
+pillow>=8.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
